@@ -1,7 +1,5 @@
 <div style="display: flex; justify-content: flex-end;">
    <div style="text-align: center;">
-   <img src="crab_magnifying.jpeg" alt="Ferris the crab with magnifying glass" width="150" />
-   <h5><i>image credit: Bing image creator</i></h5>
    </div>
 </div>
 
