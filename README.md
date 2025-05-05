@@ -21,11 +21,10 @@ Microbiology is the study of microscopic organisms, also known as microbes.  the
 The idea behind this field of biology is an old one, back from when these small organisms were not understood and were all thought to be related based on their size.  microbes can include Viruses, Bacteria, Archaea (like Bacteria but evolved to be distinct, often live in extreme environments), and small Eukaryotes such as yeasts and fungi.  other microbes include several things you may not have heard that much about, like slime molds, phage, prions, algae and protists.
 
 ### Why would microbes have different requirements for bioinformatics, genetics and genomics studies?
-Bacteria are arguably the best studied microbes, their DNA and genes are quite different to ours. a microbiology specific parser would be optimised to handle features in these genomes.  the genomes are far shorter than humans, plants and animals and many thousands of them are sequenced, meaning processing thousands of small text files is a requirement.  we have quite a bit of functional information for the genes and the many genomes are available and stored in alternative formats which need parsing.  this is where rust can really shine compared to existing tools in other languages.  we do not want to duplicate where tools already exist, e.g. fasta file parsing in rust-bio.
+Bacteria are arguably the best studied microbes. Their DNA and genes are quite different to ours. A microbiology specific parser could be optimised to handle features in these genomes.  The genomes are far shorter than those of humans, plants and animals.  Many thousands of microbial genomes are sequenced, hence processing thousands of small text files is a requirement.  We likely have more functional information for the genes and the many genomes are available and stored in different formats which need parsing.  This is where rust can really shine compared to existing tools in other languages.  We do not want to duplicate where tools already exist, e.g. fasta file parsing in rust-bio.
 
 ## Are you looking for open source contributions?
 Definitely!  Please see the microBioRust repo for issues.
-
 
 
 
