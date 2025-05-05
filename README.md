@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: flex-end;">
    <div style="text-align: center;">
+      <img src="ferr_logo.png">
    </div>
 </div>
 
@@ -13,7 +14,7 @@ Workflows and pipelines for end-to-end bioinformatics solutions - microBioRust i
 The idea is to bridge across fields.  other languages are out there such as biopython, biojulia, bioC++, bioruby, biojava, bioperl, biosql, biohaskell, biojs, bioPHP, biocaml, bioMake, bioconductor [R programming language] - contains many different libraries.  There is a rust-bio library, however, no biorust (it is a company name).
 
 ## What is Rust programming langugae?
-rust is a fantastic programming language with main features being blazingly fast, concurrency and memory efficiency.  It has a fantastic package manager, Cargo and really great interoperability with other langauges. It also has a vibrant community!
+Rust is a fantastic programming language with main features being blazingly fast, concurrency and memory efficiency.  It has a fantastic package manager, Cargo and really great interoperability with other langauges. It also has a vibrant community!
 
 ## What is microbiology?
 Microbiology is the study of microscopic organisms, also known as microbes.  they are usually too small to see.
