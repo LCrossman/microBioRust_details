@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: flex-end;">
    <div style="text-align: center;">
-      <img src="ferr_logo.png">
+      <img src="ferr_logo.png" height=100 width=100>
    </div>
 </div>
 
