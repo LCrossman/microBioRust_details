@@ -4,5 +4,7 @@ plugins:
 title: microBioRust, a microbial bioinformatics crate
 domain: LCrossman.github.io
 url: https://LCrossman/github.io
+github:
+  repository_url: https://github.com/LCrossman/microBioRust
 baseurl: /microBioRust_details/
 logo: crab_magnifying.jpeg
