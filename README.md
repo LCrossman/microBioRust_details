@@ -24,7 +24,7 @@ The idea behind this field of biology is an old one, back from when these small 
 Bacteria are arguably the best studied microbes. Their DNA and genes are quite different to ours. A microbiology specific parser could be optimised to handle features in these genomes.  The genomes are far shorter than those of humans, plants and animals.  Many thousands of microbial genomes are sequenced, hence processing thousands of small text files is a requirement.  We likely have more functional information for the genes and the many genomes are available and stored in different formats which need parsing.  This is where rust can really shine compared to existing tools in other languages.  We do not want to duplicate where tools already exist, e.g. fasta file parsing in rust-bio.
 
 ## Are you looking for open source contributions?
-Definitely!  Please see the microBioRust repo for issues.
+Definitely!  Please see the microBioRust repo for issues at https://github.com/LCrossman/microBioRust.
 
 
 
